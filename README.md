@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://https://github.com/Eujinstepan/Eujinstepan/blob/main/ethereum-digital-currency-futuristic-digital-money-nft-blue-technology-worldwide-network-concept_4974-212.jpg?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/Eujinstepan/Eujinstepan/blob/main/ethereum-digital-currency-futuristic-digital-money-nft-blue-technology-worldwide-network-concept_4974-212.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
